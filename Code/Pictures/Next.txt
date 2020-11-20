@@ -1,0 +1,10 @@
+-Upgrade Button on top of the current buttons
+-3 Upgrade Levels
+-3 Different pictures for each
+-Construction images for each building and road
+-Construction time
+-Simulate people moving in
+-Water simulation bit
+-3 Cars for each Simulation
+-Electricity simulation bit
+-Sounds
